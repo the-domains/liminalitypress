@@ -1,0 +1,28 @@
+name: LiminalityPress
+favicon: null
+layout_spectrum: 0.14024459524080157
+typography_spectrum: 0.805580529384315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26557883620262146
+  lightness: 0.8749485847074538
+  saturation: 0.8337487678509206
+  rhythmicContrast: 0.17924902914091945
+purpose: []
