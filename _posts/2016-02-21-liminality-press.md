@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Landing Page
-datePublished: '2016-02-21T06:43:39.681Z'
-dateModified: '2016-02-21T06:43:30.632Z'
+datePublished: '2016-02-21T07:04:18.177Z'
+dateModified: '2016-02-21T06:45:45.394Z'
 title: Liminality Press
 author: []
+sourcePath: _posts/2016-02-21-liminality-press.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-21-liminality-press.md
-published: true
 url: liminality-press/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c96774-315d-4ec5-92d6-c801c622e4ef.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/85bf1eaed04f78ef88e89339629ebab1b1452837.png)
 
 **Boutique Publisher**
 
