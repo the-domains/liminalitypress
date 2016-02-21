@@ -2,6 +2,7 @@ name: LiminalityPress
 favicon: null
 layout_spectrum: 0.14024459524080157
 typography_spectrum: 0.805580529384315
+title: Liminality Press
 cta:
   domain: null
   bucket: null
